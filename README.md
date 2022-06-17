@@ -6,6 +6,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreczewski&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
+###
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="APreczewski-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="APreczewski-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="APreczewski-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="APreczewski-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="APreczewski-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="APreczewski-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="APreczewski-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
 
 <!--
 **apreczewski/apreczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
