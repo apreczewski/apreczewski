@@ -18,13 +18,10 @@
     <img align="center" alt="APreczewski-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   </div>
 
-  <div align="center">
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apreczewski)
-  </div>
 
-  <div align="center">
   ![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg
-  </div>
+ 
 </div>
 
 <!--
