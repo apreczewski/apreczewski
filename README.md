@@ -23,7 +23,7 @@
   </div>
 
   <div align="center">
-    [![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg)]
+    ![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg
   </div>
 </div>
 
