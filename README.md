@@ -20,9 +20,11 @@
   
   <br/>  
   
-  <a href="https://www.linkedin.com/in/apreczewski" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  ## Conecte-se comigo no LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apreczewski)
+
+> Para abrir o LinkedIn em uma nova aba, clique com o botão direito do mouse no link e selecione "Abrir em uma nova aba".
+
 
 
   <a href="https://www.linkedin.com/in/apreczewski" target="_blank" rel="noopener noreferrer">
