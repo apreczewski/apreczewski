@@ -19,11 +19,11 @@
   </div>
 
   <div align="center">
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apreczewski)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apreczewski)
   </div>
 
   <div align="center">
-    ![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg
   </div>
 </div>
 
