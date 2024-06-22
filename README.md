@@ -20,7 +20,7 @@
   
   <br/>  
   
-  ## Conecte-se comigo no LinkedIn
+  ### Conecte-se comigo no LinkedIn
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apreczewski)
 
   ![Snake animation](https://github.com/apreczewski/apreczewski/blob/main/github-contribution-grid-snake.svg)
